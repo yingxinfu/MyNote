@@ -1,0 +1,66 @@
+
+/* Class = "UILabel"; text = "密码设置"; ObjectID = "3CN-hv-OkA"; */
+"3CN-hv-OkA.text" = "密码设置";
+
+/* Class = "UINavigationController"; title = "日记"; ObjectID = "APM-SF-wH8"; */
+"APM-SF-wH8.title" = "日记";
+
+/* Class = "UILabel"; text = "应用内评分"; ObjectID = "Ciz-Na-aCR"; */
+"Ciz-Na-aCR.text" = "应用内评分";
+
+/* Class = "UILabel"; text = "打赏开发者"; ObjectID = "EaW-xJ-Gk2"; */
+"EaW-xJ-Gk2.text" = "打赏开发者";
+
+/* Class = "UINavigationItem"; title = "日程"; ObjectID = "Jec-WA-VNz"; */
+"Jec-WA-VNz.title" = "日程";
+
+/* Class = "UINavigationController"; title = "备忘"; ObjectID = "Lgc-Vn-UpR"; */
+"Lgc-Vn-UpR.title" = "备忘";
+
+/* Class = "UITabBarItem"; title = "我"; ObjectID = "Nbe-B3-UIW"; */
+"Nbe-B3-UIW.title" = "我";
+
+/* Class = "UILabel"; text = "反馈"; ObjectID = "R4I-ry-wSI"; */
+"R4I-ry-wSI.text" = "反馈";
+
+/* Class = "UILabel"; text = "用户条款"; ObjectID = "YGf-Uh-cnQ"; */
+"YGf-Uh-cnQ.text" = "用户条款";
+
+/* Class = "UILabel"; text = "推荐好友"; ObjectID = "ZpW-4O-ass"; */
+"ZpW-4O-ass.text" = "推荐好友";
+
+/* Class = "UILabel"; text = "AppStore评价"; ObjectID = "a2Q-VE-DeO"; */
+"a2Q-VE-DeO.text" = "AppStore评价";
+
+/* Class = "UILabel"; text = "关于日记"; ObjectID = "ehG-D1-hRQ"; */
+"ehG-D1-hRQ.text" = "关于日记";
+
+/* Class = "UILabel"; text = "帮助"; ObjectID = "g7P-Sw-9TS"; */
+"g7P-Sw-9TS.text" = "帮助";
+
+/* Class = "UINavigationItem"; title = "日记"; ObjectID = "gVI-xI-eQl"; */
+"gVI-xI-eQl.title" = "日记";
+
+/* Class = "UITabBarItem"; title = "备忘"; ObjectID = "hjQ-JS-Aa3"; */
+"hjQ-JS-Aa3.title" = "备忘";
+
+/* Class = "UINavigationItem"; title = "备忘"; ObjectID = "lNi-nG-wHG"; */
+"lNi-nG-wHG.title" = "备忘";
+
+/* Class = "UINavigationController"; title = "日程"; ObjectID = "nhj-vE-MsX"; */
+"nhj-vE-MsX.title" = "日程";
+
+/* Class = "UITextField"; text = "密语"; ObjectID = "ptX-aH-CKa"; */
+"ptX-aH-CKa.text" = "密语";
+
+/* Class = "UINavigationItem"; title = "我"; ObjectID = "sez-WJ-JS4"; */
+"sez-WJ-JS4.title" = "我";
+
+/* Class = "UILabel"; text = "开发者应用"; ObjectID = "tDl-pj-9aT"; */
+"tDl-pj-9aT.text" = "开发者应用";
+
+/* Class = "UITabBarItem"; title = "日记"; ObjectID = "w57-Ny-63a"; */
+"w57-Ny-63a.title" = "日记";
+
+/* Class = "UITabBarItem"; title = "日程"; ObjectID = "zZd-h0-Yn0"; */
+"zZd-h0-Yn0.title" = "日程";
